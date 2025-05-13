@@ -1,2 +1,2 @@
 # Lab 6 - Starter
-Trisha Ngvyen and Travis Henry
+Trisha Nguyen and Travis Henry
